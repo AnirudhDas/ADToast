@@ -7,7 +7,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ADToast"
-  s.version      = "1.0.2"
+  s.version      = "1.0.4"
   s.summary      = "It displays a message in Toast style, with an Android-like effect."
 
   s.description  = "It displays a message in Toast style, with an Android-like effect."
