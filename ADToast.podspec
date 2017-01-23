@@ -7,7 +7,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ADToast"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "It displays a message in Toast style, with an Android-like effect."
 
   s.description  = "It displays a message in Toast style, with an Android-like effect."
@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
 
-  s.frameworks    =  "Foundation", "UIKit", "ObjectiveC" 
+  s.frameworks    =  "Foundation", "UIKit" 
   
   s.requires_arc = true
 
