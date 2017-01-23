@@ -7,14 +7,14 @@
 Pod::Spec.new do |s|
 
   s.name         = "ADToast"
-  s.version      = "1.0.4"
+  s.version      = "1.0.5"
   s.summary      = "It displays a message in Toast style, with an Android-like effect."
 
   s.description  = "It displays a message in Toast style, with an Android-like effect."
 
-  s.homepage     = "https://github.com/AnirudhDas/ADEmailAndPassword"
+  s.homepage     = "https://github.com/AnirudhDas/ADToast"
 
-  # s.screenshots  = "https://github.com/AnirudhDas/ADEmailAndPassword/ADToast.gif"
+  # s.screenshots  = "https://github.com/AnirudhDas/ADToast/ADToast.gif"
 
   s.license      = { :type => "MIT", :file => "LICENSE" }
   
