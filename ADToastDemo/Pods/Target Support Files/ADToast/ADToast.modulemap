@@ -1,0 +1,6 @@
+framework module ADToast {
+  umbrella header "ADToast-umbrella.h"
+
+  export *
+  module * { export * }
+}
